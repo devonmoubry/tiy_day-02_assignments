@@ -4,7 +4,6 @@ body ul {
 }
 
 .octodex {
-  background-color: pink;
   width: 100%;
   display: flex;
 }
@@ -32,7 +31,6 @@ body ul {
 }
 
 .image-footer {
-  background-color: magenta;
   max-width: 300px;
   -webkit-align-items: center;
           align-items: center;
@@ -55,7 +53,6 @@ body ul {
 
 .image-caption  {
   height: 44px;
-  background-color: red;
   display: -webkit-flex;
   display:         flex;
   float: right;
@@ -66,20 +63,17 @@ body ul {
 }
 
 .image-caption a {
-  background-color: green;
   text-decoration: none;
   color: #000000;
 }
 
 .authors {
-  background-color: orange;
   display: inline-block;;
   padding-left: 2px;
   color: white;
 }
 
 span {
-  background-color: yellow;
   color: #c0c0c0;
   -webkit-flex: none;
         flex: none;
