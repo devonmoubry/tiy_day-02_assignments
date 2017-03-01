@@ -14,7 +14,6 @@ body ul {
 }
 
 .octocat img {
-  background-color: gray;
   border: solid #c0c0c0 1px;
   border-radius: 4px;
   width: 300px;
@@ -40,7 +39,6 @@ body ul {
 
 .image-number {
   height: 44px;
-  background-color: blue;
   color: #c0c0c0;
   display: inline-flex;
   -webkit-flex: none;
